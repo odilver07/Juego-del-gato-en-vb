@@ -1,0 +1,12 @@
+c:\users\odi\documents\visual studio 2013\Projects\juego5\juego5\bin\Debug\juego5.exe.config
+c:\users\odi\documents\visual studio 2013\Projects\juego5\juego5\bin\Debug\juego5.exe
+c:\users\odi\documents\visual studio 2013\Projects\juego5\juego5\bin\Debug\juego5.pdb
+c:\users\odi\documents\visual studio 2013\Projects\juego5\juego5\bin\Debug\juego5.xml
+c:\users\odi\documents\visual studio 2013\Projects\juego5\juego5\obj\Debug\juego5.Form1.resources
+c:\users\odi\documents\visual studio 2013\Projects\juego5\juego5\obj\Debug\juego5.Resources.resources
+c:\users\odi\documents\visual studio 2013\Projects\juego5\juego5\obj\Debug\juego5.vbproj.GenerateResource.Cache
+c:\users\odi\documents\visual studio 2013\Projects\juego5\juego5\obj\Debug\juego5.exe
+c:\users\odi\documents\visual studio 2013\Projects\juego5\juego5\obj\Debug\juego5.xml
+c:\users\odi\documents\visual studio 2013\Projects\juego5\juego5\obj\Debug\juego5.pdb
+C:\Users\ODI\documents\visual studio 2013\Projects\juego5\juego5\obj\Debug\juego5.vbprojResolveAssemblyReference.cache
+C:\Users\ODI\documents\visual studio 2013\Projects\juego5\juego5\obj\Debug\juego5.Form2.resources
